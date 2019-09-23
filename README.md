@@ -1,2 +1,3 @@
 # hello-world
 tutorial - first test of abilities :-)
+i'm doing a "make and commit changes" addition to the readme file...
